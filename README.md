@@ -13,12 +13,16 @@
 ## VQA
 - [From Images to Textual Prompts: Zero-shot Visual Question Answering with
 Frozen Large Language Models](https://arxiv.org/pdf/2212.10846.pdf):
-
+    - First use the question to cut the image into several patches, perform    Image-Question Matching to select related patches.
+    - Generate image captions of related patches as question-related captions.
+    - Extract keywords of the captions as answers, generate question-answer pairs according to the keywords and captions.
+    - Cat related captions and QA-pairs together as LLM's input to generate answer.
+    
+    ![Img2LLM](assets/img1.png)
 - 
 
-## Visual Reasoning
 
-
+## Image Expansion
 
 
 
