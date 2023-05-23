@@ -2,11 +2,9 @@
 
 
 ## Image Captioning
-### Ideas
-- VQA + Chatgpt 
-
-### Related Works
-- [ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions](https://arxiv.org/pdf/2303.06594.pdf): use BLIP-2 to generate caption first, design a prompt to instruct llm to ask high-quality questions based on the generated caption. use these questions and BLIP-2 to accomplish VQA task. Finally, use chatgpt to generate the new caption based on the VQA history.
+- [ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions](https://arxiv.org/pdf/2303.06594.pdf)
+    - VQA + ChatGPT
+    -  Use BLIP-2 to generate caption first, design a prompt to instruct llm to ask high-quality questions based on the generated caption. use these questions and BLIP-2 to accomplish VQA task. Finally, use chatgpt to generate the new caption based on the VQA history.
 
 - 
 
