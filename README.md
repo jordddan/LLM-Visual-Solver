@@ -22,7 +22,9 @@ Frozen Large Language Models](https://arxiv.org/pdf/2212.10846.pdf):
 ## Visual Grounding 
 
 - [ViperGPT: Visual Inference via Python Execution for Reasoning](https://arxiv.org/pdf/2303.08128.pdf)
+
     -
+
 
 ## Image Expansion
 
