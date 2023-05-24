@@ -28,7 +28,7 @@ Frozen Large Language Models](https://arxiv.org/pdf/2212.10846.pdf):
     - Patch the image.
     - Using all the patches find the grounding object.
     - Sort the finding results.
-    - Better than zero-shot (72%), much lower than supervised models (94%).
+    - Better than zero-shot (72 IoU), much lower than supervised models (94 IoU).
 
 **Idea:**
 
