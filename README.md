@@ -1,6 +1,15 @@
 # How to use LLM to better solve CV tasks
 
+## Image-Text basic model
 
+- Image-Text Matching
+- Image-Text Retrieval
+- VQA
+- Image-Caption
+
+
+
+-----------------------------------
 ## Image Captioning
 - [ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions](https://arxiv.org/pdf/2303.06594.pdf)
     - VQA + ChatGPT
@@ -31,8 +40,6 @@ Frozen Large Language Models](https://arxiv.org/pdf/2212.10846.pdf):
     - Better than zero-shot (72 IoU), much lower than supervised models (94 IoU).
 
 **Idea:**
-
-
 
 
 ## Segmentation 
